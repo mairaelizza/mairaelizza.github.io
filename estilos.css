@@ -1,0 +1,24 @@
+*{ color:brown;
+    font-size: 20
+}
+h1 {
+   font-size: 40;
+    border: 1px solid grey;
+    padding: 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-weight: bolder;
+    color: black;
+        } 
+ section{
+    border: 1.5px solid black;
+    font-family: serif Georgia;
+    font-weight: bold; 
+   
+ }
+ p{color:black
+ }        
+    
+    

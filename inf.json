@@ -1,0 +1,10 @@
+{
+    "nombre": "Marta",
+    "apellido": "Mareco",
+    "edad":30,
+    "estado civil": "soltera",
+    "nacionalidad": "argentina",
+    "telefono":3794011777,
+    "e_mail": "martam@gmail.com",
+    "titulo": "analista en sistemas"
+ }
